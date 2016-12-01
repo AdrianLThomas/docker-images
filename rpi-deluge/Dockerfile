@@ -1,4 +1,4 @@
-FROM armhf/ubuntu
+FROM resin/rpi-raspbian
 MAINTAINER Adrian L Thomas <www.adrian-thomas.com>
 
 ENV DELUGE_USER delugeuser
